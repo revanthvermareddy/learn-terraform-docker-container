@@ -53,4 +53,4 @@ This is a sample project for learning terraform and its basics using by doing lo
 
 - Use for_each instead of count if it's possible
 - Use modules for code reuse (DRY)
-- - Use pre-commit hooks to do basic Terraform fmt, linting before commiting changes
+- Use pre-commit hooks to do basic Terraform fmt, linting before commiting changes
